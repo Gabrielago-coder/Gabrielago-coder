@@ -1,12 +1,12 @@
-# Hi, I'm (Gabriela Gómez Patiño)
+# Hi, I'm Gabriela Gómez Patiño
 
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (Fisioterapeuta) at/from [UNIVERSITY](https://urosario.edu.co/fisioterapia)
-- Master: (Maestria en Inenieria Biomedica) at/from [UNIVERSITY](https://ingbiomedica.uniandes.edu.co/es/programas/maestria#:~:text=La%20Maestría%20en%20Ingeniería%20Biomédica,el%20ámbito%20industrial%20como%20científico.)
+- Bachelor: Fisioterapeuta from Universidad de los Andes (https://urosario.edu.co/fisioterapia)
+- Master: Estudiante de Maestria en Ingenieria Biomedica at/from [UNIVERSITY](https://ingbiomedica.uniandes.edu.co/es/programas/maestria#:~:text=La%20Maestría%20en%20Ingeniería%20Biomédica,el%20ámbito%20industrial%20como%20científico.)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
